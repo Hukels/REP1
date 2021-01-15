@@ -1,0 +1,36 @@
+
+
+/*body: cuerpo de la página*/
+body{
+    background-image:url(xago%202.jpg);
+    background-size: cover;
+}
+h1{ 
+    font-size: 70px; 
+    font-family: serif; 
+    text-align: center;
+    font-style: italic;
+    
+}
+.logo{
+     width: 90px;
+     height:120px;
+     margin-top:350px;
+     margin-left:1250px;
+    
+}
+/*cabecera*/
+
+
+/*navegador*/
+
+
+/*principal: section:*/
+
+
+/*artículos: article*/
+
+
+/*propaganda: aside*/
+
+/*pie de página: footer*/
